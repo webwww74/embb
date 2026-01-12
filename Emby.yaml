@@ -1,5 +1,5 @@
 payload:
   # > Emby
-  - DOMAIN-KEYWORD,hohai
-  - DOMAIN-SUFFIX,hohai.eu.org
+  - DOMAIN-KEYWORD,emby
+  ##- DOMAIN-SUFFIX,hohai.eu.org
   ##- DOMAIN-SUFFIX,okemby.org
