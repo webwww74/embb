@@ -3,3 +3,4 @@ payload:
   - DOMAIN-KEYWORD,emby
   - DOMAIN-SUFFIX,hohai.eu.org
   - DOMAIN-SUFFIX,okemby.org
+  - DOMAIN-SUFFIX,dnscf.dpdns.org
