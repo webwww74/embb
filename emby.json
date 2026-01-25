@@ -5,12 +5,11 @@
       "domain_suffix": [
         "hohai.eu.org",
         "okemby.eu.org",
-        "dnscf.dpdns.org",
-
+        "dnscf.dpdns.org"
       ],
       "domain_keyword": 
-        "hohai"
-        "okemby"
+        "hohai",
+        "okemby",
         "dnscf"
     }
   ]
