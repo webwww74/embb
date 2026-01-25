@@ -7,11 +7,7 @@
         "okemby.eu.org",
         "dnscf.dpdns.org"
       ],
-      "domain_keyword": [
-        "hohai",
-        "okemby",
-        "dnscf"
-      ]
+      "domain_keyword": "emby"
     }
   ]
 }
