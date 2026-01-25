@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "hohai.eu.org",
+        "okemby.eu.org",
+        "dnscf.dpdns.org",
+
+      ],
+      "domain_keyword": 
+        "hohai"
+        "okemby"
+        "dnscf"
+    }
+  ]
+}
