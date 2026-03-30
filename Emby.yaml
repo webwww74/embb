@@ -1,6 +1,7 @@
 payload:
   # > Emby
   - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,ebs
   - DOMAIN-SUFFIX,hohai.eu.org
   - DOMAIN-SUFFIX,okemby.org
   - DOMAIN-SUFFIX,dnscf.dpdns.org
